@@ -62,7 +62,6 @@ section {
 .botao-inicio {
     background-color: var(--laranja-claro);
     border-radius: 30px;
-}
     border: none;
     width: 14em;
     height: 3em;
